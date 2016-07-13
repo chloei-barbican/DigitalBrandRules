@@ -6,7 +6,7 @@
 	Format Info:		https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 '
 
-  #Typeface
+#Typeface
 
 	Futura SH for titles
 	Futura SB for copy
