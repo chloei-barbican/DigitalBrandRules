@@ -12,7 +12,7 @@
 ##Typeface
 
 Futura SH for titles
-Futura SB for copy
+Futura SB for body copy
 
 ##Layout
 
