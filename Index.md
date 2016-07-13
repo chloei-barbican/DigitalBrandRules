@@ -1,22 +1,29 @@
- 
-' 
-	Title:					Brand Rules Document
-	Date Modified:	13 / 07 / 2016
-	Format:					Github Markdown
-	Format Info:		https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-'
 
-#Typeface
+#Brand Rules Document
 
-	Futura SH for titles
-	Futura SB for copy
+| :) | :) |
+| --- | --- |
+| Date Modified: | 13 / 07 / 2016 |
+| Format: | Github Markdown |
+| Format Info: | [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
 
-  #Layout
+-
 
-	Predominantly left-aligned copy
+##Typeface
 
-  #Wordmark
+Futura SH for titles
+Futura SB for copy
 
-  #Sponsors
+##Layout
 
-  #Video
+Predominantly left-aligned copy
+
+##Wordmark
+
+##Sponsors
+
+##Video
+
+##Online Reference
+
+Freelancers can use [this](http://www.barbican.org.uk/branding) resource
